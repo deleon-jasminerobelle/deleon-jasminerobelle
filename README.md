@@ -86,6 +86,4 @@ I'm always interested in discussing new opportunities, collaborating on interest
 - 💼 LinkedIn: []
 - 🌐 Portfolio: [}
 
----
 
-*"From PUP-Taguig to the professional world: Transforming data into actionable business insights through analytics and intelligent database solutions"*
