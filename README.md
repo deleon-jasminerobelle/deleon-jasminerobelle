@@ -82,8 +82,8 @@ I'm always interested in discussing new opportunities, collaborating on interest
 
 - 💼 Open to: Full-time opportunities, freelance projects, and consulting
 - 🎯 Interests: Legacy system modernization, web development, data analysis, and UI/UX design
-- 📧 Email: []
-- 💼 LinkedIn: []
+- 📧 Email: [cacb.dcforsport.jasmine@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/jasmine-robelle-de-leon-3a9b03375/]
 - 🌐 Portfolio: [}
 
 
