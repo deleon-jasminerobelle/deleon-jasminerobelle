@@ -1,7 +1,21 @@
 # Hi there! 👋 I'm Jasmine Robelle C. De Leon
 
 ## About Me
-I'm a developer who enjoys learning and working with different technologies. From maintaining legacy systems to building modern web applications, I'm constantly expanding my skills and taking on new challenges. I'm passionate about writing clean code and creating solutions that people find easy to use.
+I'm a developer studying at the **Polytechnic University of the Philippines – Taguig City**, College of Information Technology. I enjoy learning and working with different technologies. From maintaining legacy systems to building modern web applications, I'm constantly expanding my skills and taking on new challenges. I'm passionate about writing clean code and creating solutions that people find easy to use.
+
+## 📜 Certifications & Credentials
+
+**🔗 View My Certifications:** 
+
+- **Cisco Networking Certifications**
+  - [Introduction to Cybersecurity](https://drive.google.com/file/d/1xdUgyQqGnOEkga2o_7Q76D95SrzXyXzz/view?usp=sharing)
+  - [Cybersecurity Essentials](https://drive.google.com/file/d/10zTC7E13UxIEmKiTe__U5QQDlu9a0HhO/view?usp=sharing)
+  
+- **Programming & Development Certificates**
+  - [Introduction to Data Science](https://drive.google.com/file/d/1YH9rUiGFXy9xeTDBJVq-IeWDrtza54xJ/view?usp=sharing)
+  - [Exploring the Future of Blockchain](https://drive.google.com/file/d/1xRTprKN8CXR1340ZKjhIggEnkCLJicwV/view?usp=sharing)
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -87,11 +101,13 @@ I'm a developer who enjoys learning and working with different technologies. Fro
 
 ## 🌟 What I Bring
 
+- **Technical Leadership**: Experience leading development teams and making architectural decisions
 - **Full-Stack Versatility**: Comfortable working on both frontend and backend tasks
-- **Security-Minded Development**: Understanding of network security principles and how they apply to application development
+- **Real-World Projects**: Built production systems for educational institutions and organizations
+- **Security-Minded Development**: Understanding of network security principles and secure coding practices
 - **Quick Learner**: Eager to pick up new technologies and best practices
 - **Problem Solver**: Enjoy debugging issues and finding efficient solutions
-- **Team Player**: Experience collaborating with cross-functional teams
+- **Team Player**: Experience collaborating with cross-functional teams and managing developers
 - **Detail-Oriented**: Care about writing clean, maintainable code with security in mind
 - **User-Focused**: Always thinking about the end-user experience and data protection
 
@@ -105,19 +121,67 @@ I'm a developer who enjoys learning and working with different technologies. Fro
 - Studying Cisco networking and cybersecurity fundamentals
 - Understanding secure coding practices and application security
 
-## 🌐 My Work
+## 🌐 My Work & Projects
 
-I've been building projects to practice and showcase what I'm learning. Check them out:
+I've been building real-world projects that solve actual problems. Here are some highlights:
 
-### **🔗 Portfolio & Projects**
-**📱 Visit My Portfolio:** [Your Portfolio Website Here]
+### **🔗 Featured Projects**
 
-You'll find projects featuring:
-- Full-stack web applications with React and Spring Boot
-- REST API implementations
-- Database-driven applications
-- UI/UX designs and prototypes
-- Code samples and learning projects
+#### **📊 Club Organization Management System**
+**Role:** Technical Lead & Developer | **Team Size:** 4 Members
+
+A comprehensive web application developed for managing student clubs and organizations at Polytechnic University of the Philippines – Taguig Campus. This system streamlines membership handling, event coordination, and organizational reporting with role-based access control.
+
+**Key Contributions:**
+- Led technical architecture and development decisions
+- Implemented member registration and profile management system
+- Built role-based access control (Admin, Adviser, Member)
+- Developed event creation, scheduling, and announcement features
+- Created real-time data updates and automated reporting functionality
+
+**Tech Stack:** PHP, Laravel, Blade, MySQL, Git & GitHub
+
+**🔗 View Project:** [Club Management System Repository](https://github.com/deleon-jasminerobelle/Club-Organization-Management-System)
+
+---
+
+#### **🗳️ eVote.click - Organization Voting System**
+**Role:** Technical Lead & Backend Developer
+
+A secure and efficient online voting platform designed for organizational elections and decision-making processes. This system ensures vote integrity, transparency, and ease of use for all participants.
+
+**Key Contributions:**
+- Led backend architecture and API development
+- Implemented secure authentication and authorization systems
+- Designed database schema for vote tracking and results management
+- Built real-time vote tallying and results dashboard
+- Ensured data integrity and security throughout the voting process
+
+**Tech Stack:** Laravel, MySQL, Redis
+
+**🔗 View Project:** [eVote.click Repository/Demo]
+
+---
+
+#### **🏥 PDMHS Student Medical System**
+**Role:** Technical Lead & Backend Developer | **Client:** President Diosdado Macapagal High School
+
+A secure and comprehensive medical management system that streamlines student health records, clinic consultations, and day-to-day clinic operations for school health personnel.
+
+**Key Contributions:**
+- Led backend development and system architecture
+- Built centralized student health records management (medical history, allergies, immunizations)
+- Developed clinic consultation logging system with diagnoses, treatments, and prescriptions
+- Implemented secure file management for medical documents and images with controlled access
+- Integrated Redis for caching and session management to improve performance
+- Set up queue-based background processing for heavy tasks
+- Established automated testing and containerized setup with Laravel Sail
+
+**Tech Stack:** Laravel (PHP 8.2+), MySQL, Redis, Node.js, Docker, PHPUnit
+
+**🔗 View Project:** [PDMHS Medical System Repository](https://github.com/deleon-jasminerobelle/PDMHS-ClinicSystem)
+
+---
 
 ## 📫 Let's Connect!
 
@@ -127,11 +191,12 @@ I'm always excited to connect with other developers, learn from experienced prof
 - 📧 **Email:** [cacb.dcforsport.jasmine@gmail.com](mailto:cacb.dcforsport.jasmine@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/jasmine-robelle-de-leon](https://www.linkedin.com/in/jasmine-robelle-de-leon-3a9b03375/)
 - 🌐 **Portfolio:** [Your Portfolio Website]
-- 💻 **GitHub:** [Your GitHub Profile]
+- 💻 **GitHub:** [github.com/deleon-jasminerobelle](https://github.com/deleon-jasminerobelle)
 
 ### **🎯 I'm Open To**
 - Entry-level to junior developer positions
-- Internship opportunities
+- Entry-level cybersecurity and network security roles
+- Internship opportunities in development or cybersecurity
 - Freelance projects to build my portfolio
 - Collaborative learning and open-source contributions
 - Mentorship and guidance from experienced developers
@@ -141,9 +206,19 @@ I'm always excited to connect with other developers, learn from experienced prof
 - Backend development with Spring Boot and Laravel
 - Modern frontend frameworks like React
 - Database design and optimization
+- Network security and cybersecurity
+- Secure application development practices
 - UI/UX design and user experience
 - Learning from real-world projects
 
 ---
+
+## 💻 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deleon-jasminerobelle&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deleon-jasminerobelle&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deleon-jasminerobelle&layout=compact&theme=radical)
 
 *Always learning, always building, always improving.* 🚀
