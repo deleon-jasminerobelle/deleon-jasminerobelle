@@ -147,7 +147,7 @@ A comprehensive web application developed for managing student clubs and organiz
 
 **Tech Stack:** PHP, Laravel, Blade, MySQL, Git & GitHub
 
-**🔗 View Project:** [Club Management System Repository](https://github.com/deleon-jasminerobelle/Club-Organization-Management-System)
+**🔗 View Project:** [Club Management System Repository](https://github.com/deleon-jasminerobelle/club_organization_integ.git)
 
 ---
 
@@ -163,9 +163,9 @@ A secure and efficient online voting platform designed for organizational electi
 - Built real-time vote tallying and results dashboard
 - Ensured data integrity and security throughout the voting process
 
-**Tech Stack:** Laravel, MySQL, Redis
+**Tech Stack:** Java Spring-boot, MySQL, Docker 
 
-**🔗 View Project:** [eVote.click Repository/Demo]
+**🔗 View Project:** [evote.click](https://github.com/deleon-jasminerobelle/org_voting_system.git )
 
 ---
 
@@ -185,30 +185,9 @@ A secure and comprehensive medical management system that streamlines student he
 
 **Tech Stack:** Laravel (PHP 8.2+), MySQL, Redis, Node.js, Docker, PHPUnit
 
-**🔗 View Project:** [PDMHS Medical System Repository](https://github.com/deleon-jasminerobelle/PDMHS-ClinicSystem)
+**🔗 View Project:** [PDMHS Medical System Repository](https://github.com/deleon-jasminerobelle/PDMHS_CLINIC-M.git)
 
 ---
-
-### **📱 Portfolio & More Projects**
-**🌐 Visit My Portfolio:** [Your Portfolio Website Here]
-
-Explore additional projects featuring:
-- Full-stack web applications with React and Spring Boot
-- REST API implementations
-- Database-driven applications
-- UI/UX designs and prototypes
-- Code samples and learning projects
-
-### **💻 Find Me Online**
-- **GitHub:** [Your GitHub Profile] - Check out my code and projects
-- **Figma:** [Your Figma Profile] - See my design work
-- **Live Demos:** [Your Deployed Projects] - Try out my applications
-
-### **📜 Certifications & Credentials**
-- **🔗 View My Certifications:** [Your Certification Links Here]
-  - Cisco Networking Certifications
-  - Programming & Development Certificates
-  - Course Completion Credentials
 
 ## 📫 Let's Connect!
 
