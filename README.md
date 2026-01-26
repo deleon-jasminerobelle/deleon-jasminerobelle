@@ -1,169 +1,247 @@
-<h1 align="center">Hi there 👋 I'm Jasmine Robelle C. De Leon</h1>
-<h3 align="center">
-Aspiring Full-Stack Developer | Cybersecurity & Networking Enthusiast
-</h3>
+# Hi there! 👋 I'm Jasmine Robelle C. De Leon
+
+## About Me
+I'm a developer studying at the **Polytechnic University of the Philippines – Taguig City**, College of Information Technology. I enjoy learning and working with different technologies. From maintaining legacy systems to building modern web applications, I'm constantly expanding my skills and taking on new challenges. I'm passionate about writing clean code and creating solutions that people find easy to use.
+
+## 📜 Certifications & Credentials
+
+**🔗 View My Certifications:** 
+
+- **Cisco Networking Certifications**
+  - [Introduction to Cybersecurity](https://drive.google.com/file/d/1xdUgyQqGnOEkga2o_7Q76D95SrzXyXzz/view?usp=sharing)
+  - [Cybersecurity Essentials](https://drive.google.com/file/d/10zTC7E13UxIEmKiTe__U5QQDlu9a0HhO/view?usp=sharing)
+  
+- **Programming & Development Certificates**
+  - [Introduction to Data Science](https://drive.google.com/file/d/1YH9rUiGFXy9xeTDBJVq-IeWDrtza54xJ/view?usp=sharing)
+  - [Exploring the Future of Blockchain](https://drive.google.com/file/d/1xRTprKN8CXR1340ZKjhIggEnkCLJicwV/view?usp=sharing)
 
 ---
 
-## 👩‍🎓 About Me
-🎓 **Information Technology**  
-📍 Polytechnic University of the Philippines – Taguig City  
+## 💻 GitHub Activity
 
-I’m a developer with experience in **backend systems, full-stack web development, and basic cybersecurity**.  
-I enjoy building **real-world applications**, maintaining legacy systems, and designing **secure, user-friendly solutions**.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deleon-jasminerobelle&show_icons=true&theme=radical)
 
-I value **clean code, security-minded development, and continuous learning**.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deleon-jasminerobelle&theme=radical)
 
----
-
-## 🚀 Featured Projects
-
-### 🗳️ **eVote.click – Organization Voting System**
-**Role:** Technical Lead & Backend Developer  
-
-A secure online voting platform for organizational elections.
-
-**Highlights**
-- Secure authentication & role-based authorization
-- Vote integrity and real-time tallying
-- Database design focused on transparency
-
-**Tech:** Laravel, MySQL, Redis  
-🔗 *Repository/Demo available on request*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deleon-jasminerobelle&layout=compact&theme=radical)
 
 ---
 
-### 📊 **Club Organization Management System**
-**Role:** Technical Lead | Team of 4  
+## 🛠️ Technical Skills
 
-Web-based system for managing student organizations at PUP Taguig.
+### Programming Languages
+![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logo=cobol&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Highlights**
-- Member & role management
-- Event scheduling and announcements
-- Automated reports and real-time updates
+### Networking & Cybersecurity
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-0078D4?style=for-the-badge&logo=security&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DD0031?style=for-the-badge&logo=security&logoColor=white)
 
-**Tech:** Laravel, PHP, Blade, MySQL  
-🔗 [View Repository](https://github.com/deleon-jasminerobelle/Club-Organization-Management-System)
+### Frameworks & Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
----
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🏥 **PDMHS Student Medical System**
-**Client:** President Diosdado Macapagal High School  
-**Role:** Technical Lead & Backend Developer  
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
-A secure medical record system for school clinics.
+### Tools & Software
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-**Highlights**
-- Centralized student health records
-- Secure document handling with access control
-- Performance optimization with Redis & queues
+## 💼 What I Work With
 
-**Tech:** Laravel (PHP 8.2), MySQL, Redis, Docker  
-🔗 [View Repository](https://github.com/deleon-jasminerobelle/PDMHS-ClinicSystem)
+### 🏗️ **Backend Development**
+- **Java Spring Boot**: Building REST APIs, working with Spring Data JPA, implementing basic authentication, and learning dependency injection patterns
+- **COBOL**: Maintaining legacy systems and understanding business logic in older codebases
+- **Laravel**: Creating REST APIs with Eloquent ORM and implementing MVC patterns
+- **Node.js**: Building server applications with Express.js and handling async operations
+- **Python**: Writing scripts for automation and data processing tasks
+- **MySQL & Supabase**: Designing database schemas, writing queries, and working with real-time data
 
----
+### 🎨 **Frontend Development**
+- **React**: Building interactive UIs with components, managing state with hooks, and creating responsive layouts
+- **TypeScript**: Adding type safety to JavaScript projects for better code quality
+- **HTML5/CSS3**: Creating semantic, accessible markup and responsive designs with Flexbox and Grid
+- **JavaScript**: Working with modern ES6+ features and handling DOM manipulation
+- Implementing responsive design and learning CSS frameworks
 
-## 📜 Certifications
+### 🗄️ **Database Skills**
+- **MySQL**: Designing tables, writing joins, and optimizing basic queries
+- **Supabase**: Setting up authentication, real-time subscriptions, and row-level security
+- **NoSQL**: Working with document-based data structures
+- Learning about indexing and query performance
 
-### 🛡️ Cisco Networking Academy
-- [Introduction to Cybersecurity](https://drive.google.com/file/d/1xdUgyQqGnOEkga2o_7Q76D95SrzXyXzz/view)
-- [Cybersecurity Essentials](https://drive.google.com/file/d/10zTC7E13UxIEmKiTe__U5QQDlu9a0HhO/view)
+### 🔒 **Networking & Cybersecurity**
+- **Cisco Networking**: Understanding network fundamentals, routing and switching basics, and network protocols
+- **Network Security**: Learning about firewalls, VPNs, network segmentation, and access control
+- **Security Fundamentals**: Working with security best practices, threat awareness, and basic vulnerability assessment
+- **Network Configuration**: Setting up and troubleshooting network devices and understanding TCP/IP
+- Exploring how security integrates with application development
 
-### 💻 Technology & Innovation
-- [Introduction to Data Science](https://drive.google.com/file/d/1YH9rUiGFXy9xeTDBJVq-IeWDrtza54xJ/view)
-- [Exploring the Future of Blockchain](https://drive.google.com/file/d/1xRTprKN8CXR1340ZKjhIggEnkCLJicwV/view)
+### 📊 **Business Tools**
+- **Excel**: Using formulas, creating pivot tables, and analyzing data
+- **CRM Systems**: Learning workflow automation and process optimization
+- **Microsoft Office**: Creating documentation and presentations
 
----
+### 🎨 **Design & Prototyping**
+- **Figma**: Creating wireframes, prototypes, and basic UI designs
+- **Canva**: Making graphics and visual content
+- Following UI/UX best practices and accessibility guidelines
 
-## 🛠️ Tech Stack
+### 📋 **Project Management**
+- **Jira**: Working in Agile environments and tracking project tasks
+- **Notion**: Organizing documentation and project notes
+- Collaborating with teams and managing timelines
 
-### 💻 Programming Languages
-<p align="center">
-  <img title="Java" src="https://skillicons.dev/icons?i=java&theme=dark" />
-  <img title="Python" src="https://skillicons.dev/icons?i=python&theme=dark" />
-  <img title="JavaScript" src="https://skillicons.dev/icons?i=javascript&theme=dark" />
-  <img title="TypeScript" src="https://skillicons.dev/icons?i=typescript&theme=dark" />
-  <img title="COBOL" src="https://skillicons.dev/icons?i=cobol&theme=dark" />
-</p>
+## 🌟 What I Bring
 
-### 🏗️ Backend Development
-<p align="center">
-  <img title="Spring Boot" src="https://skillicons.dev/icons?i=spring&theme=dark" />
-  <img title="Laravel" src="https://skillicons.dev/icons?i=laravel&theme=dark" />
-  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-  <img title="Express.js" src="https://skillicons.dev/icons?i=express&theme=dark" />
-</p>
+- **Technical Leadership**: Experience leading development teams and making architectural decisions
+- **Full-Stack Versatility**: Comfortable working on both frontend and backend tasks
+- **Real-World Projects**: Built production systems for educational institutions and organizations
+- **Security-Minded Development**: Understanding of network security principles and secure coding practices
+- **Quick Learner**: Eager to pick up new technologies and best practices
+- **Problem Solver**: Enjoy debugging issues and finding efficient solutions
+- **Team Player**: Experience collaborating with cross-functional teams and managing developers
+- **Detail-Oriented**: Care about writing clean, maintainable code with security in mind
+- **User-Focused**: Always thinking about the end-user experience and data protection
 
-### 🎨 Frontend Development
-<p align="center">
-  <img title="React" src="https://skillicons.dev/icons?i=react&theme=dark" />
-  <img title="HTML5" src="https://skillicons.dev/icons?i=html&theme=dark" />
-  <img title="CSS3" src="https://skillicons.dev/icons?i=css&theme=dark" />
-</p>
+## 🔧 Currently Learning & Working On
+- Building REST APIs with Java Spring Boot
+- Creating full-stack applications with React and Node.js
+- Working with Supabase for real-time features
+- Improving my TypeScript and Laravel skills
+- Learning about database optimization
+- Exploring UI/UX design principles in Figma
+- Studying Cisco networking and cybersecurity fundamentals
+- Understanding secure coding practices and application security
 
-### 🗄️ Databases & Storage
-<p align="center">
-  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-  <img title="MongoDB / NoSQL" src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
-  <img title="Supabase" src="https://skillicons.dev/icons?i=supabase&theme=dark" />
-</p>
+## 🌐 My Work & Projects
 
-### 🔐 Networking & Cybersecurity
-<p align="center">
-  <img title="Cisco Networking" src="https://skillicons.dev/icons?i=cisco&theme=dark" />
-  <img title="Network Security" src="https://img.shields.io/badge/Network_Security-1f2937?style=for-the-badge&logo=security&logoColor=white" />
-  <img title="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=security&logoColor=red" />
-</p>
+I've been building real-world projects that solve actual problems. Here are some highlights:
 
-### 🧰 Tools & Workflow
-<p align="center">
-  <img title="Git" src="https://skillicons.dev/icons?i=git&theme=dark" />
-  <img title="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" />
-  <img title="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" />
-  <img title="Figma" src="https://skillicons.dev/icons?i=figma&theme=dark" />
-  <img title="Jira" src="https://skillicons.dev/icons?i=jira&theme=dark" />
-  <img title="Notion" src="https://skillicons.dev/icons?i=notion&theme=dark" />
-</p>
+### **🔗 Featured Projects**
 
----
+#### **📊 Club Organization Management System**
+**Role:** Technical Lead & Developer | **Team Size:** 4 Members
 
-## 📊 GitHub Activity & Contributions
+A comprehensive web application developed for managing student clubs and organizations at Polytechnic University of the Philippines – Taguig Campus. This system streamlines membership handling, event coordination, and organizational reporting with role-based access control.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deleon-jasminerobelle&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
-</p>
+**Key Contributions:**
+- Led technical architecture and development decisions
+- Implemented member registration and profile management system
+- Built role-based access control (Admin, Adviser, Member)
+- Developed event creation, scheduling, and announcement features
+- Created real-time data updates and automated reporting functionality
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deleon-jasminerobelle&theme=radical" />
-</p>
+**Tech Stack:** PHP, Laravel, Blade, MySQL, Git & GitHub
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deleon-jasminerobelle&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deleon-jasminerobelle&theme=radical" />
-</p>
-
----
-
-## 🔧 Currently Learning
-- Java Spring Boot REST APIs
-- Full-stack development with React & Node.js
-- Supabase real-time features
-- Database optimization
-- Secure application development
-- Cisco networking & cybersecurity fundamentals
-
----
-
-## 📫 Let’s Connect
-- 📧 Email: [cacb.dcforsport.jasmine@gmail.com](mailto:cacb.dcforsport.jasmine@gmail.com)
-- 💼 LinkedIn: https://www.linkedin.com/in/jasmine-robelle-de-leon-3a9b03375/
-- 💻 GitHub: https://github.com/deleon-jasminerobelle
+**🔗 View Project:** [Club Management System Repository](https://github.com/deleon-jasminerobelle/Club-Organization-Management-System)
 
 ---
 
-⭐ *Always learning. Always building. Security-minded by design.*
+#### **🗳️ eVote.click - Organization Voting System**
+**Role:** Technical Lead & Backend Developer
 
+A secure and efficient online voting platform designed for organizational elections and decision-making processes. This system ensures vote integrity, transparency, and ease of use for all participants.
+
+**Key Contributions:**
+- Led backend architecture and API development
+- Implemented secure authentication and authorization systems
+- Designed database schema for vote tracking and results management
+- Built real-time vote tallying and results dashboard
+- Ensured data integrity and security throughout the voting process
+
+**Tech Stack:** Laravel, MySQL, Redis
+
+**🔗 View Project:** [eVote.click Repository/Demo]
+
+---
+
+#### **🏥 PDMHS Student Medical System**
+**Role:** Technical Lead & Backend Developer | **Client:** President Diosdado Macapagal High School
+
+A secure and comprehensive medical management system that streamlines student health records, clinic consultations, and day-to-day clinic operations for school health personnel.
+
+**Key Contributions:**
+- Led backend development and system architecture
+- Built centralized student health records management (medical history, allergies, immunizations)
+- Developed clinic consultation logging system with diagnoses, treatments, and prescriptions
+- Implemented secure file management for medical documents and images with controlled access
+- Integrated Redis for caching and session management to improve performance
+- Set up queue-based background processing for heavy tasks
+- Established automated testing and containerized setup with Laravel Sail
+
+**Tech Stack:** Laravel (PHP 8.2+), MySQL, Redis, Node.js, Docker, PHPUnit
+
+**🔗 View Project:** [PDMHS Medical System Repository](https://github.com/deleon-jasminerobelle/PDMHS-ClinicSystem)
+
+---
+
+### **📱 Portfolio & More Projects**
+**🌐 Visit My Portfolio:** [Your Portfolio Website Here]
+
+Explore additional projects featuring:
+- Full-stack web applications with React and Spring Boot
+- REST API implementations
+- Database-driven applications
+- UI/UX designs and prototypes
+- Code samples and learning projects
+
+### **💻 Find Me Online**
+- **GitHub:** [Your GitHub Profile] - Check out my code and projects
+- **Figma:** [Your Figma Profile] - See my design work
+- **Live Demos:** [Your Deployed Projects] - Try out my applications
+
+### **📜 Certifications & Credentials**
+- **🔗 View My Certifications:** [Your Certification Links Here]
+  - Cisco Networking Certifications
+  - Programming & Development Certificates
+  - Course Completion Credentials
+
+## 📫 Let's Connect!
+
+I'm always excited to connect with other developers, learn from experienced professionals, and discuss potential opportunities.
+
+### **📬 Get in Touch**
+- 📧 **Email:** [cacb.dcforsport.jasmine@gmail.com](mailto:cacb.dcforsport.jasmine@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/jasmine-robelle-de-leon](https://www.linkedin.com/in/jasmine-robelle-de-leon-3a9b03375/)
+- 🌐 **Portfolio:** [Your Portfolio Website]
+- 💻 **GitHub:** [github.com/deleon-jasminerobelle](https://github.com/deleon-jasminerobelle)
+
+### **🎯 I'm Open To**
+- Entry-level to junior developer positions
+- Entry-level cybersecurity and network security roles
+- Internship opportunities in development or cybersecurity
+- Freelance projects to build my portfolio
+- Collaborative learning and open-source contributions
+- Mentorship and guidance from experienced developers
+
+### **💡 Interested In**
+- Full-stack web development
+- Backend development with Spring Boot and Laravel
+- Modern frontend frameworks like React
+- Database design and optimization
+- Network security and cybersecurity
+- Secure application development practices
+- UI/UX design and user experience
+- Learning from real-world projects
+
+---
+
+*Always learning, always building, always improving.* 🚀
