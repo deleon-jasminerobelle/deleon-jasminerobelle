@@ -19,10 +19,6 @@ I'm a developer studying at the **Polytechnic University of the Philippines – 
 
 ## 💻 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deleon-jasminerobelle&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deleon-jasminerobelle&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deleon-jasminerobelle&layout=compact&theme=radical)
 
 ---
@@ -221,7 +217,7 @@ I'm always excited to connect with other developers, learn from experienced prof
 ### **📬 Get in Touch**
 - 📧 **Email:** [cacb.dcforsport.jasmine@gmail.com](mailto:cacb.dcforsport.jasmine@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/jasmine-robelle-de-leon](https://www.linkedin.com/in/jasmine-robelle-de-leon-3a9b03375/)
-- 🌐 **Portfolio:** [Your Portfolio Website]
+- 🌐 **Portfolio:** []
 - 💻 **GitHub:** [github.com/deleon-jasminerobelle](https://github.com/deleon-jasminerobelle)
 
 ### **🎯 I'm Open To**
