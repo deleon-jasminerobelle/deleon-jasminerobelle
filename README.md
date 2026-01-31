@@ -183,6 +183,7 @@ Grammar & Style Suggestions – Improve clarity, readability, and flow
 Paraphrasing – Reword sentences while preserving meaning
 
 Customizable Prompts – Control tone, length, and style of output
+
 **🔗 View Project:** :(https://github.com/deleon-jasminerobelle/AI_WriterHelp.git)
 
 ---
