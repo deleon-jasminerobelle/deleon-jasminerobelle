@@ -168,7 +168,24 @@ A secure and efficient online voting platform designed for organizational electi
 **🔗 View Project:** [evote.click](https://github.com/deleon-jasminerobelle/org_voting_system.git )
 
 ---
+✍️ AI_WriterHelp
 
+AI_WriterHelp is an AI-powered writing assistant built using Python and Hugging Face Transformers. It helps users generate text, complete sentences, improve grammar and style, and paraphrase content efficiently. Whether you're a writer, blogger, student, or content creator, this tool enhances productivity and writing quality through intelligent language assistance.
+
+🚀 Features
+
+Text Generation – Generate text based on a given prompt
+
+Text Completion – Complete unfinished sentences or paragraphs
+
+Grammar & Style Suggestions – Improve clarity, readability, and flow
+
+Paraphrasing – Reword sentences while preserving meaning
+
+Customizable Prompts – Control tone, length, and style of output
+**🔗 View Project:** :(https://github.com/deleon-jasminerobelle/AI_WriterHelp.git)
+
+---
 #### **🏥 PDMHS Student Medical System**
 **Role:** Technical Lead & Backend Developer | **Client:** President Diosdado Macapagal High School
 
