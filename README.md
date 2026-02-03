@@ -19,7 +19,7 @@ I'm a developer studying at the **Polytechnic University of the Philippines – 
 
 ## 💻 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deleon-jasminerobelle&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deleon-jasminerobelle&layout=compact&theme=radical)
 
 ---
 
