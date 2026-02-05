@@ -1,64 +1,84 @@
 # Hi there! 👋 I'm Jasmine Robelle C. De Leon
 
 ## About Me
+
 I'm a developer studying at the **Polytechnic University of the Philippines – Taguig City**, College of Information Technology. I enjoy learning and working with different technologies. From maintaining legacy systems to building modern web applications, I'm constantly expanding my skills and taking on new challenges. I'm passionate about writing clean code and creating solutions that people find easy to use.
 
 ## 📜 Certifications & Credentials
 
-**🔗 View My Certifications:** 
+**🔗 View My Certifications:**
 
-- **Cisco Networking Certifications**
-  - [Introduction to Cybersecurity](https://drive.google.com/file/d/1xdUgyQqGnOEkga2o_7Q76D95SrzXyXzz/view?usp=sharing)
-  - [Cybersecurity Essentials](https://drive.google.com/file/d/10zTC7E13UxIEmKiTe__U5QQDlu9a0HhO/view?usp=sharing)
-  
-- **Programming & Development Certificates**
-  - [Introduction to Data Science](https://drive.google.com/file/d/1YH9rUiGFXy9xeTDBJVq-IeWDrtza54xJ/view?usp=sharing)
-  - [Exploring the Future of Blockchain](https://drive.google.com/file/d/1xRTprKN8CXR1340ZKjhIggEnkCLJicwV/view?usp=sharing)
+* **Cisco Networking Certifications**
+
+  * [Introduction to Cybersecurity](https://drive.google.com/file/d/1xdUgyQqGnOEkga2o_7Q76D95SrzXyXzz/view?usp=sharing)
+  * [Cybersecurity Essentials](https://drive.google.com/file/d/10zTC7E13UxIEmKiTe__U5QQDlu9a0HhO/view?usp=sharing)
+
+* **Programming & Development Certificates**
+
+  * [Introduction to Data Science](https://drive.google.com/file/d/1YH9rUiGFXy9xeTDBJVq-IeWDrtza54xJ/view?usp=sharing)
+  * [Exploring the Future of Blockchain](https://drive.google.com/file/d/1xRTprKN8CXR1340ZKjhIggEnkCLJicwV/view?usp=sharing)
 
 ---
 
 ## 💻 GitHub Activity
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deleon-jasminerobelle&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deleon-jasminerobelle\&layout=compact\&theme=radical)
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logo=cobol&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge\&logo=cobol\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge\&logo=ruby\&logoColor=white)
 
 ### Networking & Cybersecurity
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-0078D4?style=for-the-badge&logo=security&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DD0031?style=for-the-badge&logo=security&logoColor=white)
+
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge\&logo=cisco\&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-0078D4?style=for-the-badge\&logo=security\&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DD0031?style=for-the-badge\&logo=security\&logoColor=white)
 
 ### Frameworks & Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+
+### Frontend Frameworks & Mobile
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 
 ### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ### Tools & Software
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
+
 
 ## 💼 What I Work With
 
