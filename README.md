@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Jasmine Robelle C. De Leon
+# Hi there! 👋 I'm Jasmine Robelle C. De Leon <img align="right" alt="Coding Cat" width="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+
 
 ## About Me
 
