@@ -1,7 +1,4 @@
-# Hi there! 👋 I'm Jasmine! 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="250">
-</div>
+# Hi there! 👋 I'm Jasmine!  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="150">
 
 ---
 
