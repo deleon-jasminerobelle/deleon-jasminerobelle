@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Jasmine Robelle C. De Leon <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-<img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="300"/>
-
+<img src="https://media.tenor.com/images/4c9d460c64db4e0e34e0e0eb451c543e/tenor.gif" width="300"/>
 
 ## About Me
 
