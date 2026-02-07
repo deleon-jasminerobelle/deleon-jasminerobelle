@@ -1,4 +1,8 @@
-# Hi there! 👋 I'm Jasmine Robelle C. De Leon ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+# Hi there! 👋 I'm Jasmine Robelle C. De Leon 
+<div align="center">
+  <img src="https://octodex.github.com/images/Professortocat_v2.png" width="300"/>
+  <p><i>Professor Octocat at work!</i></p>
+</div>
 
 
 ## About Me
