@@ -2,7 +2,9 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="250">
 </div>
+
 ---
+
 ## About Me
 
 I'm a developer studying at the **Polytechnic University of the Philippines – Taguig City**, College of Information Technology. I enjoy learning and working with different technologies. From maintaining legacy systems to building modern web applications, I'm constantly expanding my skills and taking on new challenges. I'm passionate about writing clean code and creating solutions that people find easy to use.
