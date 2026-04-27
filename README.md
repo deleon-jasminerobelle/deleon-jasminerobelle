@@ -23,7 +23,7 @@
 
 ---
 
-## 🙋 About Me
+## About Me
 
 I'm an Information Technology student at the **Polytechnic University of the Philippines – Taguig City** with hands-on experience in full-stack development, data analytics, and cybersecurity fundamentals. I've served as **Technical Lead** on multiple production systems — from school health management to organizational voting platforms — and I thrive at the intersection of clean code, practical data insights, and secure system design.
 
