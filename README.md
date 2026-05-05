@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Jasmine Robelle De Leon 👋
+   Jasmine Robelle De Leon 
 </h1>
 
 <p align="center">
@@ -292,9 +292,6 @@ I'm always excited to connect with developers, learn from experienced profession
   <a href="https://portfolio-final-robelle-xdwu.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/deleon-jasminerobelle">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 | Channel | Details |
@@ -302,7 +299,7 @@ I'm always excited to connect with developers, learn from experienced profession
 | 📧 Email | [cacb.dcforsport.jasmine@gmail.com](mailto:cacb.dcforsport.jasmine@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/jasmine-robelle-de-leon](https://www.linkedin.com/in/jasmine-robelle-de-leon-3a9b03375/) |
 | 🌐 Portfolio | [portfolio-final-robelle-xdwu.vercel.app](https://portfolio-final-robelle-xdwu.vercel.app/) |
-| 💻 GitHub | [github.com/deleon-jasminerobelle](https://github.com/deleon-jasminerobelle) |
+
 
 ---
 
